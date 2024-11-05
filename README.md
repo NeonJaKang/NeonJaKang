@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rinna Ateros - elloWorldTom
+# Hi 👋, I'm Ja Kang - 자 깡
 
 ## An Aspiring Software Engineer - Game Developer 👨🏻‍💻
 
@@ -37,4 +37,4 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=dracula&hide_border=true&username=itzaRinna&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,java,c,csharp" height="275" alt="languages graph"  />
 </div>
-<a href="https://app.daily.dev/itzarinna"><img src="https://api.daily.dev/devcards/v2/7eA96WxpDT4v8I6qvVFXf.png?r=y93" width="356" alt="Rinna Ateros's Dev Card"/></a>
+<a href="https://app.daily.dev/neonjakang"><img src="https://api.daily.dev/devcards/v2/7eA96WxpDT4v8I6qvVFXf.png?r=y93" width="356" alt="Rinna Ateros's Dev Card"/></a>
